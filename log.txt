@@ -1,0 +1,6 @@
+Test Result:PASS
+test count: 2
+Low speed, duty 48%, RPM =1770
+High speed, duty 72%, RPM =3510
+========================================
+
